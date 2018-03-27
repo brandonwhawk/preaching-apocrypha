@@ -7,3 +7,5 @@ For more about the book and the context of these data sets, visit https://brando
 Data here includes two sets (both in .csv and .xlsx):
 1) Data about “Manuscripts Containing Anglo-Saxon Scripts in CLA” (obtained using Mark Stansbury’s Earlier Latin Manuscripts, at NUI Galway).
 2) Data about “Apocrypha in Anglo-Saxon Preaching Collections” used for network visualizations (visualizations created using Palladio).
+
+These data sets are available under under an Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License.
